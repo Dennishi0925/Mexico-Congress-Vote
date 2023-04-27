@@ -10,3 +10,5 @@ scripts for scraping mexico congress voting
 
 ## Steps
 - Plz refer to the script, there are four steps
+- the page is built on PHP
+- we can simulate pull request with R
